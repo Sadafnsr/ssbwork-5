@@ -1,0 +1,35 @@
+.header{
+    background-color: aqua;
+    min-height: 80px;
+}
+.wrapper{
+    overflow: hidden;
+}
+.blog{
+   background-color: maroon;
+   min-height: 100px;
+    width: 33%;
+    float: left;
+} 
+
+.contact{
+   background-color: mediumseagreen;
+   min-height:  100px;
+       width: 34%;
+    float: left;
+} 
+.home{ 
+     background-color: brown;
+     min-height:  100px;
+       width: 33%;
+    float: left;
+}
+
+.footer{
+    background-color: black;
+    min-height: 80px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
